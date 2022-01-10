@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/emanuelolivera/rocketseat#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "knex": "^0.95.15",
+    "sqlite3": "^5.0.2"
   },
   "description": "",
   "devDependencies": {
